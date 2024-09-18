@@ -9,7 +9,7 @@ body:
     attributes:
       label: Username
       description: "Please enter your Nova Corps username"
-      placeholder: "CTFUser"
+      placeholder: "greenasgrass"
     validations:
       required: true
 
